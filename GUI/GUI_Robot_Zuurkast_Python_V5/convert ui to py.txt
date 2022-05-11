@@ -1,0 +1,5 @@
+(base) C:\Users\deryc>conda activate venv_BP
+
+(venv_BP) C:\Users\deryc>pyuic5.exe -x "D:\Industrieel Ingenieur EM\6-Bachelorproef Elektromechanica\Programma's\Python\GUI_Robot_Zuurkast_Python\GUI_robot_controls.ui" -o "D:\Industrieel Ingenieur EM\6-Bachelorproef Elektromechanica\Programma's\Python\GUI_Robot_Zuurkast_Python\GUI_robot_controls.py"
+
+(venv_BP) C:\Users\deryc>
